@@ -1,10 +1,11 @@
 # resume
 ## 프로젝트 포트폴리오 (단순 이력서)
 
-> Thanks to 플랫폼   
-> > [startbootstrap](https://startbootstrap.com/,'startbootstrap')      
+> Thanks to 플랫폼
+[startbootstrap](https://startbootstrap.com/,'startbootstrap')                           
+           
 > Thanks to 아이콘
-> > [icons8](https://icons8.com/,'icons8')   
+[icons8](https://icons8.com/,'icons8')   
    
       
  <hr />        
